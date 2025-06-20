@@ -2,6 +2,10 @@
 
 Main meta-repository for the NeuroPay project — an AI-to-AI micropayment protocol built on Layer 2 infrastructure.
 
+## 📡 Website
+
+Visit: [https://neuropay.tech](https://neuropay.tech)
+
 ## Repositories
 - [`neuropay-token`](https://github.com/karadico/neuropay-token) — ERC-20 token contracts for NRY
 - [`neuropay-protocol`](https://github.com/karadico/neuropay-protocol) — Core AI-to-AI transaction logic
